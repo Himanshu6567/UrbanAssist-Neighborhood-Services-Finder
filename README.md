@@ -68,9 +68,9 @@ UrbanAssist is a **web application** designed to connect local service providers
 1.  **Clone the repository**:
 
 ```sh
-git clone git
+git clone https://github.com/Himanshu6567/UrbanAssist-Neighborhood-Services-Finder/tree/main
 
-cd UrbanAsist_Neighborhood_Services_Finder
+cd UrbanAssist-Neighborhood-Services-Finder
 
 ```
 
